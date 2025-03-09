@@ -21,7 +21,7 @@
 ## 📝 Side Project  
 > **첫 번째 프로젝트! 작은 규모지만 기록하고 싶어요.**  
 
-### ✅ [Todo List](https://github.com/yourorganization/todo-list)
+### ✅ [Todo List](https://github.com/dudu-banana/todo-list)
 🛠 Html,css,js 기반의 심플한 할 일 관리 앱입니다.  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourorganization&repo=todo-list&theme=radical)](https://github.com/yourorganization/todo-list)
