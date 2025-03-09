@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jaeyeon-23</h1>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
+  </a>
+</p>
 
-<!--
-**Jaeyeon-23/Jaeyeon-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Engineering Student
+- 🔥 Interested in **Frontend Development & 3D Simulations**
+- 💡 Developing **[Blix](https://github.com/yourorganization/blix)** - A Minecraft 3D Building Simulation Service
 
-Here are some ideas to get you started:
+## 🔨 Projects
+💻 Check out my main project:  
+👉 **[Blix](https://github.com/yourorganization/blix)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" align="right" />
+
+## 📫 Contact Me
+📧 Email: reenact115@gmail.com  
+💬 Discord: 
