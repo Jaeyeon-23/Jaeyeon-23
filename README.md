@@ -1,7 +1,8 @@
-<!-- 🎨 타이틀 배너 -->
+<!-- 타이틀 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20JaeYeon's%20GitHub!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=30&animation=fadeIn&fontColor=ffffff&font=Architects+Daughter&textAlign=center&desc=Explore%20my%20projects%20and%20journey%20here%20😊&descAlignY=55&descSize=20&descColor=ffffff&backgroundColor=linear-gradient(to top right, #ff7e5f, #feb47b)"/>
 </p>
+
 
 ---
 
