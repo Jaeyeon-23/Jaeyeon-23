@@ -24,8 +24,6 @@
 ### ✅ [Todo List](https://github.com/dudu-banana/todo-list)
 🛠 Html,css,js 기반의 심플한 할 일 관리 앱입니다.  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dudu-banana&repo=todo-list&theme=radical&description=A+simple+and+efficient+task+management+app)](https://github.com/dudu-banana/todo-list)
-
 ---
 
 ## 🔧 Tools  
